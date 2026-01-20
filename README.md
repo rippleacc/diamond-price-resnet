@@ -51,7 +51,7 @@ The model evaluates performance using **MAE (Mean Absolute Error)** and **R² Sc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/diamond-price-resnet.git](https://github.com/YOUR_USERNAME/diamond-price-resnet.git)
+    git clone [https://github.com/winengewe/diamond-price-resnet.git](https://github.com/winengewe/diamond-price-resnet.git)
     cd diamond-price-resnet
     ```
 
